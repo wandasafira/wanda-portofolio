@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wanda-portofolio/static/css/main.d106bc0e.css",
+    "main.js": "/wanda-portofolio/static/js/main.7c521253.js",
+    "static/media/Twitter_Sentiment_Analysis_of_Indonesian_Airlines_Using_LSTM_final.pdf": "/wanda-portofolio/static/media/Twitter_Sentiment_Analysis_of_Indonesian_Airlines_Using_LSTM_final.58ccb230aefa01350d69.pdf",
+    "static/media/Picsart_22-10-28_23-12-44-079.jpg": "/wanda-portofolio/static/media/Picsart_22-10-28_23-12-44-079.460b6dd785450f4c83e8.jpg",
+    "static/media/Picsart_22-10-31_23-32-12-739.jpg": "/wanda-portofolio/static/media/Picsart_22-10-31_23-32-12-739.e850d1d4a45408ceec87.jpg",
+    "static/media/work1.jpg": "/wanda-portofolio/static/media/work1.2cb8f0ab6cec3bcdd51c.jpg",
+    "static/media/work5.png": "/wanda-portofolio/static/media/work5.beb8b1d6de2fc5bed837.png",
+    "static/media/work6.jpg": "/wanda-portofolio/static/media/work6.0b77ebf3c948adf88c57.jpg",
+    "static/media/work2.jpg": "/wanda-portofolio/static/media/work2.1620ee46b999f9131e76.jpg",
+    "static/media/work3.jpg": "/wanda-portofolio/static/media/work3.62c4dd642a9ce2267180.jpg",
+    "static/media/work4.jpg": "/wanda-portofolio/static/media/work4.4a95f03357d2d3b1c260.jpg",
+    "index.html": "/wanda-portofolio/index.html",
+    "main.d106bc0e.css.map": "/wanda-portofolio/static/css/main.d106bc0e.css.map",
+    "main.7c521253.js.map": "/wanda-portofolio/static/js/main.7c521253.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d106bc0e.css",
+    "static/js/main.7c521253.js"
+  ]
+}
