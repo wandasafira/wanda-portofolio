@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/wanda-portofolio/static/css/main.d106bc0e.css",
-    "main.js": "/wanda-portofolio/static/js/main.c4804cf2.js",
+    "main.js": "/wanda-portofolio/static/js/main.1a9728f1.js",
+    "static/media/WANDA SAFIRA - CV (1).pdf": "/wanda-portofolio/static/media/WANDA SAFIRA - CV (1).6d8f70e2ebdccbc76b98.pdf",
     "static/media/Twitter_Sentiment_Analysis_of_Indonesian_Airlines_Using_LSTM_final.pdf": "/wanda-portofolio/static/media/Twitter_Sentiment_Analysis_of_Indonesian_Airlines_Using_LSTM_final.58ccb230aefa01350d69.pdf",
     "static/media/Picsart_22-10-28_23-12-44-079.jpg": "/wanda-portofolio/static/media/Picsart_22-10-28_23-12-44-079.460b6dd785450f4c83e8.jpg",
     "static/media/Picsart_22-10-31_23-32-12-739.jpg": "/wanda-portofolio/static/media/Picsart_22-10-31_23-32-12-739.e850d1d4a45408ceec87.jpg",
@@ -13,10 +14,10 @@
     "static/media/work4.jpg": "/wanda-portofolio/static/media/work4.4a95f03357d2d3b1c260.jpg",
     "index.html": "/wanda-portofolio/index.html",
     "main.d106bc0e.css.map": "/wanda-portofolio/static/css/main.d106bc0e.css.map",
-    "main.c4804cf2.js.map": "/wanda-portofolio/static/js/main.c4804cf2.js.map"
+    "main.1a9728f1.js.map": "/wanda-portofolio/static/js/main.1a9728f1.js.map"
   },
   "entrypoints": [
     "static/css/main.d106bc0e.css",
-    "static/js/main.c4804cf2.js"
+    "static/js/main.1a9728f1.js"
   ]
 }
