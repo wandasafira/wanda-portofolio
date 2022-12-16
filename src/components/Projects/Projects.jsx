@@ -1,6 +1,5 @@
 import React from 'react'
 import './projects.css'
-import CV from '../../assets/Twitter_Sentiment_Analysis_of_Indonesian_Airlines_Using_LSTM_final.pdf'
 import Work1img from '../../assets/work1.jpg'
 import Work2img from '../../assets/work2.jpg'
 import Work3img from '../../assets/work3.jpg'
@@ -83,7 +82,7 @@ positive, neutral, and negative, using Lexicon and Long
 Short-Term Memory (LSTM). <b>Python</b> is needed when making The Sentiment Analysis</p>
                 <div className="portofolio__item-cta">
                 <a href="https://colab.research.google.com/drive/1xx46QSHDMyH4WphoUk-69wKMcuY78V8y?usp=sharing" className="button" target='_blank'>Code</a>
-                <a href={CV} className="button button--flex" target='_blank'>Demo</a>
+                <a href="https://ieeexplore.ieee.org/document/9975946"className="button button--flex" target='_blank'>Demo</a>
                 </div>
             </article>
         </div>
