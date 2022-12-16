@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wanda-portofolio/static/css/main.d106bc0e.css",
-    "main.js": "/wanda-portofolio/static/js/main.8b288387.js",
+    "main.js": "/wanda-portofolio/static/js/main.0cf1d00f.js",
     "static/media/Picsart_22-10-28_23-12-44-079.jpg": "/wanda-portofolio/static/media/Picsart_22-10-28_23-12-44-079.460b6dd785450f4c83e8.jpg",
     "static/media/Picsart_22-10-31_23-32-12-739.jpg": "/wanda-portofolio/static/media/Picsart_22-10-31_23-32-12-739.e850d1d4a45408ceec87.jpg",
     "static/media/work1.jpg": "/wanda-portofolio/static/media/work1.2cb8f0ab6cec3bcdd51c.jpg",
@@ -13,10 +13,10 @@
     "static/media/work4.jpg": "/wanda-portofolio/static/media/work4.4a95f03357d2d3b1c260.jpg",
     "index.html": "/wanda-portofolio/index.html",
     "main.d106bc0e.css.map": "/wanda-portofolio/static/css/main.d106bc0e.css.map",
-    "main.8b288387.js.map": "/wanda-portofolio/static/js/main.8b288387.js.map"
+    "main.0cf1d00f.js.map": "/wanda-portofolio/static/js/main.0cf1d00f.js.map"
   },
   "entrypoints": [
     "static/css/main.d106bc0e.css",
-    "static/js/main.8b288387.js"
+    "static/js/main.0cf1d00f.js"
   ]
 }
